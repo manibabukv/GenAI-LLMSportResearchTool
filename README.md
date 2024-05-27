@@ -1,3 +1,3 @@
 # Sport Research Tool
 
-This chatbot application that will help in answering sports question based on the revelant articles. The teck stack for this project are LangChain, Streamlit and OpenAI API.
+This chatbot application helps you in answering sports question based on the relevant articles. Tech Stack: Langchain, OpenAI API, FAISS, Streamlit.
